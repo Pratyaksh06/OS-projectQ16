@@ -47,7 +47,7 @@ int main()
       {
           printf("  %d",arrival_time[i]);
       }
-    printf("\n Gaint chart \n");
+    printf("\n Gannt chart \n");
     j=0;
 
     while(j<=n)
